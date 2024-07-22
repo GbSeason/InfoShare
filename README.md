@@ -23,3 +23,6 @@ select
         LEFT JOIN MARD_DALI_PT.LQUA_PPT lqua ON lqua.LQNUM=ltap.VLQNR AND lqua.WERKS=ltap.WERKS
         where
         ltap.LGNUM in ('56A','56C') and ltak.BWLVS IN ('319','999','983','935','952') and ltap.PQUIT=' '
+        <if test="nowDay != null and  nowDay !=''">
+            and ltak.BDATU >= #{nowDay,jdbcType=VARCHAR}
+        </if>
