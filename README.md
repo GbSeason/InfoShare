@@ -26,3 +26,11 @@ select
         <if test="nowDay != null and  nowDay !=''">
             and ltak.BDATU >= #{nowDay,jdbcType=VARCHAR}
         </if>
+# InfoShare
+
+def stop_task(task_name):
+    subprocess.run(["schtasks", "/end", "/tn", task_name])
+
+
+def start_task(task_name):
+    subprocess.run(["schtasks", "/run", "/tn", task_name])
