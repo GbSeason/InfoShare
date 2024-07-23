@@ -1,0 +1,1656 @@
+INFO:root:2024-07-22 17:15:20 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:SI_03 sucessfully
+INFO:root:stop all sync task
+INFO:root:start sync task: PES_SyncDali_SI_03
+INFO:root:2024-07-22 17:18:29 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:21:29 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:SI_03 sucessfully
+INFO:root:stop all sync task
+INFO:root:start sync task: PES_SyncDali_SI_03
+INFO:root:2024-07-22 17:24:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:27:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:30:48 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:33:53 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:36:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:40:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:43:08 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:46:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:49:19 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:52:24 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:55:29 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 17:58:34 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:01:40 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:04:45 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:07:51 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:10:56 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:14:01 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:17:06 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:20:11 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:23:16 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:26:22 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:29:27 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:32:32 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:35:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:38:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:41:48 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:44:53 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:47:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:51:04 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:54:09 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 18:57:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:00:20 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:03:26 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:06:31 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:09:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:12:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:15:47 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:18:52 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:21:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:25:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:28:09 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:31:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:34:20 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:37:25 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:40:30 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:43:36 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:46:41 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:49:46 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:52:51 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:55:56 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 19:59:02 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:02:07 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:05:13 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:08:18 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:11:23 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:14:29 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:17:34 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:20:40 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:23:46 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:26:51 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:29:57 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:33:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:36:09 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:39:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:42:20 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:45:26 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:48:32 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:51:38 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:54:44 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 20:57:50 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:00:56 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:04:02 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:07:08 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:10:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:13:20 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:16:26 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:19:32 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:22:38 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:25:43 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:28:49 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:31:55 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:35:01 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:38:07 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:41:12 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:44:18 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:47:23 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:50:29 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:53:35 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:56:41 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 21:59:46 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:02:52 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:05:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:09:04 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:12:09 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:15:15 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:18:21 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:21:26 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:24:31 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:27:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:30:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:33:48 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:36:53 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:39:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:43:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:46:09 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:49:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:52:19 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:55:25 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 22:58:30 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:01:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:04:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:07:48 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:10:53 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:13:59 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:17:04 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:20:09 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:23:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:26:20 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:29:25 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:32:30 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:35:35 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:38:41 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:41:46 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:44:51 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:47:56 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:51:02 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:54:07 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-22 23:57:12 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:00:17 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:03:23 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:06:29 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:09:34 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:12:40 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:15:46 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:18:51 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:21:56 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:25:02 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:28:07 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:31:12 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:34:17 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:37:22 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:40:28 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:43:33 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:46:38 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:49:44 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:52:49 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:55:54 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 00:58:59 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:02:05 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:05:11 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:08:16 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:11:22 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:14:27 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:17:32 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:20:38 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:23:43 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:26:49 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:29:54 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:32:59 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:36:05 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:39:10 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:42:15 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:45:21 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:48:26 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:51:31 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:54:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 01:57:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:00:47 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:03:53 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:06:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:10:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:13:08 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:16:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:19:19 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:22:24 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:25:29 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:28:34 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:31:40 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:34:45 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:37:50 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:40:55 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:44:00 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:47:06 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:50:11 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:53:16 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:56:21 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 02:59:27 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:02:32 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:05:38 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:08:43 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:11:48 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:14:53 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:17:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:21:04 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:24:09 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:27:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:30:20 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:33:25 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:36:31 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:39:36 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:42:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:45:47 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:48:52 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:51:57 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:55:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 03:58:08 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:01:13 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:04:19 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:07:24 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:10:30 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:13:35 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:16:40 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:19:45 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:22:51 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:25:56 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:29:01 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:32:06 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:35:12 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:38:17 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:41:23 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:44:28 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:47:33 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:50:38 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:53:43 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:56:49 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 04:59:54 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:03:00 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:06:05 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:09:10 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:12:15 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:15:21 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:18:26 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:21:31 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:24:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:27:43 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:30:48 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:33:55 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:37:00 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:40:06 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:43:12 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:46:17 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:49:23 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:52:28 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:55:33 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 05:58:38 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:01:44 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:04:50 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:07:55 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:11:00 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:14:06 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:17:11 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:20:16 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:23:22 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:26:27 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:29:32 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:32:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:35:43 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:38:49 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:41:54 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:45:00 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:48:05 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:51:10 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:54:15 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 06:57:21 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:00:26 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:03:32 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:06:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:09:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:12:48 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:15:53 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:18:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:22:05 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:25:10 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:28:15 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:31:21 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:34:26 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:37:31 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:40:37 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:43:42 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:46:47 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:49:52 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:52:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:56:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 07:59:08 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:02:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:05:19 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:08:25 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:11:30 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:14:36 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:17:41 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:20:46 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:23:52 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:26:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:30:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:33:08 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:36:14 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:39:19 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:42:24 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:45:30 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:48:36 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:51:41 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:54:46 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 08:57:52 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:00:58 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:04:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:07:10 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:10:17 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:13:22 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:16:28 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:19:34 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:22:39 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:25:45 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:28:50 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:31:56 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:35:01 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:38:07 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:41:12 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:44:18 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:47:23 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:50:29 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:53:34 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:56:40 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 09:59:45 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 10:02:52 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 10:05:57 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 10:09:03 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
+INFO:root:2024-07-23 10:12:08 jdbc:oracle:thin:@SI0EXARAC03.de.bosch.com:38000/RLDP01_CON_3.BOSCH.COM--connect OK
+
+SI_03_OK
+
+
