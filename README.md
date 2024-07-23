@@ -34,3 +34,9 @@ def stop_task(task_name):
 
 def start_task(task_name):
     subprocess.run(["schtasks", "/run", "/tn", task_name])
+
+ON240722112993049
+ON240722112953663
+ON240722112919694
+ON240722112870544
+ON240722112635704
